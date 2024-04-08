@@ -1,4 +1,5 @@
 ***0- project Goal***
+
 The aim of this project is to predict the if a patient is suffering from diabetes. A sample of datset has been demonstrated as follows:
 
 ![image](https://github.com/mason-85/diabetes-prognosis/assets/156556839/151bd2c3-f5e0-4750-91a5-811bf21951ba)
