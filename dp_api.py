@@ -4,7 +4,7 @@ import joblib
 app = Flask(__name__)
 
 # Load the model from the file
-model = joblib.load('voting_clf.pkl')
+model = joblib.load('rf_model.pkl')
 
 @app.route('/predict', methods=['POST'])
 def predict():
