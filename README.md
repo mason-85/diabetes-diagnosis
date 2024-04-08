@@ -56,7 +56,7 @@ features / attributes:</br>
 ***1- Code Description***</br></br>
 
 Refere to the ".ipynb" file for complete description. All cells and the reason(s) behind each decision have been elaborated in the ".ipynb"
-file.</br>
+file.</br></br>
 
 ***2- Dataset Link***
 
