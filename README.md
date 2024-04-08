@@ -63,6 +63,23 @@ file.</br></br>
 The link of the dataset is available in the ".ipynb" file.</br>
 It is also available here:</br>
 ***Link:*** https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset</br>
-Please note that only the first five percent of the dataset has been utalized for this code to lessen the processing time.
+Please note that only the first five percent of the dataset has been utalized for this code to lessen the processing time.</br></br>
+
+***3- Saved Model***</br></br>
+
 The best classification metrics were obtained for the 'RandomForest'(RF) method. Given that, the output model of the RF has been saved as
-"grid_search_rf.h5".
+"rf_model.h5". This model is utalized for the API code.</br></br>
+
+***4- API***</br></br>
+
+The code is presented in "dp_api.py". This has to be utilized to deploy the model on the target website(s).</br></br>
+
+***5- Requirements.txt***</br></br>
+
+In this project the Heroku is the cloud platform. the required categories and libraries are indicated in this file to be installed on heroku.</br></br>
+
+***6- diabetes***</br></br>
+
+A five percent trunkated dataset from the original dataset, mentioned in the previous link, which is applied in this project.</br></br>
+
+
