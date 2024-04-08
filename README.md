@@ -77,7 +77,7 @@ In this project, Heroku is the chosen cloud platform. The necessary dependencies
 
 ***6- diabetes.csv***</br></br>
 
-A truncated dataset comprising five percent of the original dataset, referenced in the previous link, is utilized in this project.</br></br>
+A truncated dataset comprising five percent of the original dataset, is utilized in this project.</br></br>
 
 ***7- Procfile***</br></br>
 
