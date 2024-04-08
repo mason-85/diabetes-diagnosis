@@ -1,4 +1,4 @@
-<p style="text-align: left; color:yellow; font-size: 24px">***0- project Goal***
+<p style="text-align: left; color:yellow; font-size: 24px">***0- project Goal***<p>
 
 The aim of this project is to predict the if a patient is suffering from diabetes. A sample of datset has been demonstrated as follows:
 
