@@ -6,6 +6,7 @@ The aim of this project is to predict the if a patient is suffering from diabete
 
 The description of each column is presented herein:</br></br>
 <p style="text-align: left; color:yellow; font-size: 18px">Target:<p>
+  
 **Diabetes_012:** 0 = no diabetes / 1 = prediabetes / 2 = diabetes
 
 <p style="text-align: left; color:yellow; font-size: 18px">Attributes:<p>
