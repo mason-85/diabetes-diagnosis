@@ -82,4 +82,11 @@ In this project the Heroku is the cloud platform. the required categories and li
 
 A five percent trunkated dataset from the original dataset, mentioned in the previous link, which is applied in this project.</br></br>
 
+***7- Procfile***</br></br>
+
+This file comprises the mechanism for declaring what commands are run by the application’s dynos on the Heroku platform1.</br></br>
+
+***8- runtime.txt***</br></br>
+
+It specifies the version of Python.
 
