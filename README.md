@@ -5,11 +5,11 @@ The aim of this project is to predict the if a patient is suffering from diabete
 ![image](https://github.com/mason-85/diabetes-prognosis/assets/156556839/151bd2c3-f5e0-4750-91a5-811bf21951ba)
 
 The description of each column is presented herein:</br></br>
-<p style="text-align: left; color:yellow; font-size: 18px">Target:<p>
+Target:</br>
   
 **Diabetes_012:** 0 = no diabetes / 1 = prediabetes / 2 = diabetes
 
-<p style="text-align: left; color:yellow; font-size: 18px">Attributes:<p>
+features / attributes:</br>
 
 **HighBP:** 0 = no high BP / 1 = high BP
 
