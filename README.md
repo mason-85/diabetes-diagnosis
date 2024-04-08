@@ -1,4 +1,4 @@
-***0- project Goal***</br>
+***0- project Goal***</br></br>
 
 The aim of this project is to predict the if a patient is suffering from diabetes. A sample of datset has been demonstrated as follows:
 
