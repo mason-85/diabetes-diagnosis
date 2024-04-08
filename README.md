@@ -1,3 +1,8 @@
+***0- project Goal***
+The aim of this project is to predict the if a patient is suffering from diabetes. A sample of datset has been demonstrated as follows:
+
+
+
 ***1- Code Description***
 
 Refere to the ".ipynb" file for complete description. All cells and the reason(s) behind each decision have been elaborated in the ".ipynb"
