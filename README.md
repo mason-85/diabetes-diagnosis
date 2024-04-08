@@ -78,7 +78,7 @@ The code is presented in "dp_api.py". This has to be utilized to deploy the mode
 
 In this project the Heroku is the cloud platform. the required categories and libraries are indicated in this file to be installed on heroku.</br></br>
 
-***6- diabetes***</br></br>
+***6- diabetes.csv***</br></br>
 
 A five percent trunkated dataset from the original dataset, mentioned in the previous link, which is applied in this project.</br></br>
 
