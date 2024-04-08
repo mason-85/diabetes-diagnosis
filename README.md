@@ -1,6 +1,6 @@
 ***0- project Goal***</br></br>
 
-The aim of this project is to predict the if a patient is suffering from diabetes. A sample of datset has been demonstrated as follows:
+The objective of this project is to predict whether a patient is suffering from diabetes. A sample dataset is presented below:
 
 ![image](https://github.com/mason-85/diabetes-prognosis/assets/156556839/151bd2c3-f5e0-4750-91a5-811bf21951ba)
 
@@ -61,30 +61,27 @@ file.</br></br>
 ***2- Dataset Link***
 
 The link of the dataset is available in the ".ipynb" file.</br>
-It is also available here:</br>
-***Link:*** https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset</br>
-Please note that only the first five percent of the dataset has been utalized for this code to lessen the processing time.</br></br>
+Please note that only the first five percent of the dataset has been utilized for this code to reduce processing time.</br></br>
 
 ***3- Saved Model***</br></br>
 
-The best classification metrics were obtained for the 'RandomForest'(RF) method. Given that, the output model of the RF has been saved as
-"rf_model.h5". This model is utalized for the API code.</br></br>
+The best classification metrics were achieved with the 'RandomForest' (RF) method. Consequently, the output model of the RF has been saved as "rf_model.pkl". This model will be utilized for the API code.
 
 ***4- API***</br></br>
 
-The code is presented in "dp_api.py". This has to be utilized to deploy the model on the target website(s).</br></br>
+The code is provided in "dp_api.py". This file needs to be used to deploy the model on the target website(s)..</br></br>
 
 ***5- Requirements.txt***</br></br>
 
-In this project the Heroku is the cloud platform. the required categories and libraries are indicated in this file to be installed on heroku.</br></br>
+In this project, Heroku is the chosen cloud platform. The necessary dependencies and libraries are specified in this file to be installed on Heroku.</br></br>
 
 ***6- diabetes.csv***</br></br>
 
-A five percent trunkated dataset from the original dataset, mentioned in the previous link, which is applied in this project.</br></br>
+A truncated dataset comprising five percent of the original dataset, referenced in the previous link, is utilized in this project.</br></br>
 
 ***7- Procfile***</br></br>
 
-This file comprises the mechanism for declaring what commands are run by the application’s dynos on the Heroku platform1.</br></br>
+This file contains the mechanism for specifying the commands to be executed by the application's dynos on the Heroku platform.</br></br>
 
 ***8- runtime.txt***</br></br>
 
